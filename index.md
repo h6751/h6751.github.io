@@ -78,7 +78,9 @@ Based on the saved chat files in Zoom, the active student list is provided [here
 
 ### Individual In-class Assignment (25%)
 
-We are going to have a 90-minutes in-class assignment, which covers programming. You can refer to the [template](project/template.zip). This online assignment will test materials covered until Week 9 (Introduction to deep learning).
+* We are going to have a 90-minutes in-class assignment, which covers programming. You can refer to the [template](project/template.zip). This online assignment will test materials covered until Week 9 (Introduction to deep learning).
+
+* Check the [Answer](project/h6751_assignment_solutions.html)
 
 ### Group Project (40%)
 
